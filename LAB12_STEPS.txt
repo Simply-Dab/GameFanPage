@@ -1,0 +1,47 @@
+LAB 12 HAND-IN CHECKLIST — READ BEFORE UPLOADING
+
+1. Keep this entire folder structure:
+   index.html
+   worlds.html
+   survival-tips.html
+   style.css
+   script.js
+   README.md
+   prompts.docx
+   D_26i-3161_Lab12.txt
+   images/minecraft-key-art.jpg
+
+2. Open index.html in a browser. Test all three navigation links, the More Info alert, and the random tip button on Survival Tips. Check that the image appears.
+
+3. In GitHub Desktop, create a NEW public repository using your NU-email GitHub account. Copy all files and the images folder into the repository root. Make the first commit:
+   Add Lab 11 page
+
+4. Publish the repository publicly. Do not publish private if you intend to use free GitHub Pages.
+
+5. Make meaningful commits as you add/review the pages. The lab requires at least 4 commits. Example history (perform each action and commit in GitHub Desktop):
+   - Add Lab 11 page
+   - Add Minecraft worlds page
+   - Add survival tips page and JavaScript interaction
+   - Add feature branch change (see next step)
+   - Manual: adjust a CSS colour or spacing value yourself
+   - Merge the feature branch into main
+   - Update README and prompt log
+
+6. Feature branch requirement:
+   In GitHub Desktop choose Branch > New branch; call it feature-worlds. Make one real, small improvement to worlds.html on that branch (for example add a short paragraph about planning a build), save and commit it. Switch to main, choose Branch > Merge into current branch, select feature-worlds, merge, then Push origin. Do not claim this was done until you actually perform it.
+
+7. Manual change requirement:
+   Open style.css yourself and change one value, for example --green-500: #62a84f; to another colour you choose. Preview it in the browser, then commit with a message starting exactly:
+   Manual:
+   This change must be made by you without AI.
+
+8. GitHub Pages:
+   On GitHub open repository > Settings > Pages. Choose Deploy from a branch, select main and /(root), then Save. Wait for deployment. Copy the live URL.
+
+9. Update README.md and D_26i-3161_Lab12.txt with your real repository and live website URLs. Commit and push these changes.
+
+10. Capture genuine screenshots of your ChatGPT prompts and add them into prompts.docx. The lab specifically requires the initial prompt to include your name, roll number and background, and the ChatGPT interface must be visible. Do not fabricate screenshots.
+
+11. Open the live website in a private/incognito browser window. Check all pages, navigation and images.
+
+12. Submit ONLY the required text file to your course submission location, with the real repository and live URLs. Keep prompts.docx and README.md in the GitHub repository; do not submit them separately unless your instructor separately asks.

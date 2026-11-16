@@ -1,0 +1,13 @@
+CL1000 - LAB 12 SUBMISSION
+
+Name: Abdul Rafay
+Roll Number: 26i-3161
+Section: SE-D
+
+GitHub Repository Link: PASTE YOUR PUBLIC GITHUB REPOSITORY URL HERE
+Live Website Link: PASTE YOUR GITHUB PAGES URL HERE
+
+Before submitting:
+1. Replace both link placeholders with your real working links.
+2. Confirm the section and roll number are correct.
+3. Save this file using the required naming pattern: D_26i-3161_Lab12.txt
